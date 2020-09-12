@@ -1,0 +1,49 @@
+﻿@using BookingAppStore.Models
+@model IEnumerable<Purchase>
+@{
+    ViewBag.Title = "Purchase";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Purchase</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PurchaseId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Person)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>@Html.DisplayNameFor(model => model.BookId)</th>
+        <th>@Html.DisplayNameFor(model => model.Date)</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PurchaseId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Person)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.PurchaseId }) 
+            </td>
+        </tr>
+    }
+
+</table>

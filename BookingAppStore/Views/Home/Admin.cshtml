@@ -1,0 +1,23 @@
+﻿@model BookingAppStore.Models.Person
+
+@{
+    ViewBag.Title = "Index3";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Данные пользователя</h2>
+<div><label>ID:</label>@Html.DisplayFor(m => m.PersonId)</div>
+<div><label>Имя:</label>@Html.DisplayFor(m => m.FirstName)</div>
+<div><label>Фамилия:</label>@Html.DisplayFor(m => m.LastName)</div>
+<div><label>Роль:</label>@Html.DisplayFor(m => m.Role)</div>
+<div>
+    @if(Model.PersonId==11){
+    @Html.ActionLink("Go to List Admin", "Index","Store")<br/><hr/>
+    @Html.ActionLink("Go to List view People", "Index","Person")<br/><hr/>
+   @Html.ActionLink("Go to List view Purchases", "Purchase","Home")
+    }
+    @if (Model.PersonId != 11)
+    {
+        @Html.ActionLink("Want to you see the Greatest Creation", "Index")
+    } 
+    </div>

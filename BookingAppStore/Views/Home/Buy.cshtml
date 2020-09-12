@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Buy";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h3>Form</h3>
+    @using (Html.BeginForm("Buy", "Home", FormMethod.Post))
+    {
+        @*<input type="hidden" value="@ViewBag.BookId" name="BookId" />*@
+        @Html.Hidden("BookId", ViewBag.BookId as string)
+        <table>
+            <tr>
+                <td><p>@Html.Label("Person", "Введите свое имя")</p></td>
+                <td><input type="text" name="Person" placeholder="Введите имя" /> </td>
+            </tr>
+            <tr>
+                <td><p>@Html.Label("Adress", "Введите адрес :")</p></td>
+                <td><input type="text" name="Address" placeholder="Введите адрес" /> </td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Отправить" /> </td>
+                <td></td>
+            </tr>
+        </table>
+    }
+</div>

@@ -1,0 +1,145 @@
+﻿@using BookingAppStore.Models
+@model IEnumerable<Book>
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron">
+    <h1>Книжный магазин</h1>
+    <p class="lead">Читая в первый раз хорошую книгу, мы испытываем то же чувство, как при приобретении нового друга. Вновь прочитать уже читанную книгу — значит вновь увидеть старого друга.
+• Вольтер
+    @*<p><a href="http://asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>*@
+</div>
+<header class="hheader">
+        <div class="hheader1">
+            <div class="row">
+                <div class="col-md-4">
+                    <h2>Книга — это источник мудрости</h2>
+                    <p>
+                        Книга — такое же явление жизни, как человек, она — тоже факт живой, говорящий, и она менее «вещь», чем все другие вещи, созданные и создаваемые человеком.
+                        Максим Горький
+                    </p>
+                    <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Узнать больше &raquo;</a></p>
+                </div>
+                <div class="col-md-4">
+                    <h2>Книга — это шедевр</h2>
+                    <p>Лучший в мире кинозал — это мозг, и ты понимаешь это, когда читаешь хорошую книгу.
+                        Ридли Скотт
+                    <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Узнать больше &raquo;</a></p>
+                </div>
+                <div class="col-md-4">
+                    <h2>Книга — это собеседник</h2>
+                    <p>Книга — учитель без платы и благодарности. Каждый миг дарит она тебе откровения мудрости. Это — собеседник, имеющий мозг, покрытый кожей, о тайных делах вещающий молча. 
+                    Навои А.</p>
+                    <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Узнать больше &raquo;</a></p>
+                </div>
+            </div>
+            <div>
+                @using (Ajax.BeginForm("BookSearch", new AjaxOptions { UpdateTargetId = "results" }))
+                {
+                    <input type="text" name="name" @*data-autocomplete-source="@Url.Action("AutocompleteSearch", "Home")"*@ placeholder="поиск книг по автору" />
+                @*<script>$(function () {
+        $("[data-autocomplete-source]").each(function () {
+            var target = $(this);
+            target.autocomplete({ source: target.attr("data-autocomplete-source") });
+        });
+    });</script>*@
+                    <input type="submit" value="Поиск" />
+                }
+                <div id="results"></div>
+            </div>
+            @Scripts.Render("~/scripts/jquery-1.10.2.min.js")
+            @Scripts.Render("~/scripts/jquery.unobtrusive-ajax.min.js")
+            <script>
+                $(function () {
+                    $("img").mouseover(function () {
+                        $(this).animate({ height: '+=20', width: '+=20' });
+                    });
+                    $("img").mouseout(function () {
+                        $(this).animate({ height: '-=20', width: '-=20' });
+                    });
+                });</script>
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Author)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Price)
+                    </th>
+                    <th>@Html.DisplayNameFor(model => model.Image)</th>
+                </tr>
+                
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Author)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                        <td><img src="@item.Image" alt="загрузка..." width="70" height="100" /></td>
+                        <td>
+                            @Html.ActionLink("Buy", "Buy", new { id = item.Id })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+            @*<div class="hheader3">
+                <h3>Распродажа книг</h3>
+                <p><a href="/Store/Create">Create</a></p>
+                <table>
+                    <tr class="header">
+                        <td><p>Название книги</p></td>
+                        <td><p>Автор</p></td>
+                        <td><p>Цена</p></td>
+                        <td></td>
+                    </tr>
+                    @foreach (Book b in Model)
+                    {
+                        <tr>
+                            <td><p>@b.Name</p></td>
+                            <td><p>@b.Author</p></td>
+                            <td><p>@b.Price</p></td>
+                            <td><p><a href="/Store/Buy/@b.Id">Купить</a><a href="/Store/Delete/@b.Id">Delete</a><a href="/Store/EditBook/@b.Id">EditBook</a></p></td>
+                        </tr>
+                    }
+                </table>
+            </div>*@
+            @*@helper CreateList(string[] all)
+    {
+    <ul>
+        @foreach (string s in all)
+        {
+            <li>@s</li>
+        }
+    </ul>
+    }
+
+    @{
+        string[] cities = new string[] { "Лондон", "Париж", "Москва" };
+    }
+
+    @{
+        string[] countries = new string[] { "Великобритания", "Франция", "Россия" };
+    }
+
+    <h3>Города</h3>
+    @CreateList(cities)
+
+    <br />
+
+    <h3>Страны</h3>
+    @CreateList(countries)*@
+        </div>
+    </header>

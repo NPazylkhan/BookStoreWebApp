@@ -1,0 +1,81 @@
+﻿body {
+    width:100%;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    background-color:#1b444a;
+    background:url(Images/bk7.jpg) no-repeat top/cover;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    width:80%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+.hheader1{
+
+width:100%;
+
+background:url(Images/original.jpg) no-repeat top/cover;
+border: 1px solid rgb(224,224,224);
+border-radius: 5px 5px 5px 5px;
+float: left;
+min-height: 500px;
+
+}
+.hheader2{
+
+width:8%;
+
+background:url(Images/starbooks2.jpg) no-repeat top/cover;
+border: 1px solid rgb(224,224,224);
+border-radius: 5px 5px 5px 5px;
+float: left;
+min-height: 60px;
+}
+.hheader3{
+
+
+width:100%;
+
+background:url(Images/book.jpg) no-repeat top/cover;
+border: 1px solid rgb(224,224,224);
+border-radius: 5px 5px 5px 5px;
+float: left;
+min-height: 700px;
+}
+.hheader {
+color:white;
+}

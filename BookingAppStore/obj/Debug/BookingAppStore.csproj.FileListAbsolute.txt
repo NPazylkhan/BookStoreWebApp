@@ -1,0 +1,497 @@
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\BookingAppStore.dll.config
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\BookingAppStore.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\BookingAppStore.pdb
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\obj\Debug\BookingAppStore.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\obj\Debug\BookingAppStore.dll
+c:\users\user\documents\visual studio 2013\Projects\BookingAppStore\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\EntityFramework.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Owin.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\WebGrease.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\EntityFramework.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\obj\Debug\BookingAppStore.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\user\Desktop\BookingAppStoreN\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\EntityFramework.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Owin.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\WebGrease.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\EntityFramework.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\obj\Debug\BookingAppStore.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\user\Desktop\BookingAppStoreNew\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\EntityFramework.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Owin.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\WebGrease.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\EntityFramework.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\obj\Debug\BookingAppStore.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\user\Downloads\BookingAppStoreNew1\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Owin.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\WebGrease.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\user\Desktop\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\EntityFramework.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Owin.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\WebGrease.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\EntityFramework.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\user\Desktop\StarBooks2\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\EntityFramework.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Owin.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\WebGrease.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\EntityFramework.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\user\Desktop\StarBooks3\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Owin.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\WebGrease.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.csprojAssemblyReference.cache
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.csproj.CopyComplete
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\Nurmakhan Pazylkhan\Desktop\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.pdb
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\BookingAppStore.dll.config
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\BookingAppStore.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\BookingAppStore.pdb
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Antlr3.Runtime.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\EntityFramework.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Newtonsoft.Json.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Owin.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Helpers.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Mvc.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Optimization.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Razor.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.WebPages.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\WebGrease.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\EntityFramework.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Helpers.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Mvc.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Optimization.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.Razor.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.WebPages.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Newtonsoft.Json.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Antlr3.Runtime.pdb
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.csprojAssemblyReference.cache
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.csproj.CopyComplete
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.dll
+C:\Users\Nurmakhan Pazylkhan\source\repos\VStudio\StarBooks\BookingAppStore\obj\Debug\BookingAppStore.pdb

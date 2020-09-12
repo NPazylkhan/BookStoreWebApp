@@ -1,0 +1,29 @@
+﻿@using BookingAppStore.Models
+@model IEnumerable<Book>
+@{
+    ViewBag.Title = "Booking Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <div>
+        <header class="hheader3">
+            <h3>Распродажа книг</h3>
+            <p><a href="/Store/Create">Create</a></p>
+            <table>
+                <tr class="header">
+                    <td><p>Название книги</p></td>
+                    <td><p>Автор</p></td>
+                    <td><p>Цена</p></td>
+                    <td></td>
+                </tr>
+                @foreach (Book b in Model)
+                {
+                    <tr>
+                        <td><p>@b.Name</p></td>
+                        <td><p>@b.Author</p></td>
+                        <td><p>@b.Price</p></td>
+                        <td><p><a href="/Store/Buy/@b.Id">Купить</a><a href="/Store/Delete/@b.Id">Delete</a><a href="/Store/EditBook/@b.Id">EditBook</a></p></td>
+                    </tr>
+                }
+            </table>
+        </header>
+    </div>

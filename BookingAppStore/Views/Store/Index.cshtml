@@ -1,0 +1,72 @@
+﻿@model IEnumerable<BookingAppStore.Models.Book>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Books</h2>
+<div>
+    @using (Ajax.BeginForm("BookSearch", new AjaxOptions { UpdateTargetId = "results" }))
+{
+    <input type="text" name="name" @*data-autocomplete-source="@Url.Action("AutocompleteSearch", "Store")"*@ placeholder="поиск книг по автору" />
+    @*<script>$(function () {
+        $("[data-autocomplete-source]").each(function () {
+            var target = $(this);
+            target.autocomplete({ source: target.attr("data-autocomplete-source") });
+        });
+    });</script>*@
+            <input type="submit" value="Поиск" />
+}
+<div id="results"></div>
+</div>
+@Scripts.Render("~/scripts/jquery-1.10.2.min.js")
+@Scripts.Render("~/scripts/jquery.unobtrusive-ajax.min.js")
+<script>
+    $(function () {
+        $("img").mouseover(function () {
+            $(this).animate({ height: '+=20', width: '+=20' });
+        });
+        $("img").mouseout(function () {
+            $(this).animate({ height: '-=20', width: '-=20' });
+        });
+    });</script>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>@Html.DisplayNameFor(model => model.Image)</th>
+        </tr>
+        
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td><img src="@item.Image" alt="загрузка..." width="70" height="100" /></td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }) |
+                    @Html.ActionLink("Buy", "Buy", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
